@@ -1,0 +1,33 @@
+.card {
+  display: flex;
+  width: 15rem;
+  height: 190px;
+  background-color: rgb(255, 253, 253);
+  border-radius: 8px;
+  border-color: rgb(96, 236, 218);
+  border-width: 5px;
+  color: antiquewhite;
+  margin: 3% 2% !important;
+  text-align: center;
+}
+
+.carToLink {
+  margin: 0 3%;
+}
+.usenom {
+  color: rgb(10, 57, 105);
+  font-weight: bold;
+  text-decoration: none;
+}
+.text {
+  text-align: center;
+}
+.nom {
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
+}
+.inf {
+  color: rgb(95, 93, 93);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}

@@ -1,0 +1,10 @@
+.home {
+  text-align: center;
+  font-size: 60px;
+  text-decoration: underline;
+  color: rgb(238, 236, 94);
+  font-family: fantasy;
+}
+.img {
+  margin-left: 20%;
+}
